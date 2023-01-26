@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+607257,"Concierge Services",2017-12-16,75293,15058.6,90351.6,EUR
+343141,"Professional Services",2017-12-04,278690,55738,334428,CAD
