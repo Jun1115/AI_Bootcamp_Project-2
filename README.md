@@ -11,4 +11,4 @@ Example) 어떤 데이터를 Array Type으로 추출하여 사용했는데 추�
 **느낌점**: 처음으로 프로젝트를 완성했다는 것에 대한 프라이드가 높았습니다. 또 놓치고 있던 단점(Log의 중요성)을 알게 된 계기가 되어 앞으로의 성장을 위한 발판이라고 느꼈습니다.
   
 ## 3. Skills
-- Uipath
+<img src="https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white">
